@@ -1,1 +1,1 @@
-#The Betterdiscord Theme "Lightning Circle"
+# The Betterdiscord Theme "Lightning Circle"
